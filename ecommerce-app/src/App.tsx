@@ -1,8 +1,9 @@
 import React from 'react';
+import './styles/global.scss'
 
 function App() {
   return (
-    <>Hello world!</>
+    <div>Hello world!</div>
   );
 }
 

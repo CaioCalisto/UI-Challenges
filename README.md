@@ -1,4 +1,4 @@
 # UI-Challenges
 
-## Hotel Bookings
-https://www.figma.com/file/AepS1uYWpqLR71gGeWCF6V/Booking-Web-App-UI-KIT-(Community)?type=design&node-id=4-159&mode=design&t=SNPuHDeeMCYJmhME-0
+## E-Commerce
+https://www.figma.com/file/Obd96nmPYaDx29d7fb8OAz/Figma---eCommerce-template?node-id=102%3A121683&mode=dev
